@@ -1,0 +1,4 @@
+urls:
+  https://www.check24.de/privathaftpflicht/fragen/: {block: 'ul[class=div24LinkList]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/1.txt, link_selector: 'li[class=ico24HoverParent]
+      > a'}

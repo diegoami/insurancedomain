@@ -1,0 +1,136 @@
+urls:
+  https://www.check24.de/kfz-versicherung/faq/: {block: 'dl[class*=c24Accordion]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/4.txt,
+    text: p, title: h3}
+  https://www.check24.de/motorradversicherung/fragen/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/1.txt,
+    text: p, title: h2}
+  https://www.check24.de/privathaftpflicht/fragen/ausland/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/32.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/ausschluesse/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/14.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/beachten/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/3.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/beginn-versicherungsschutz/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/6.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/best-leistungsgarantie/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/10.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/bis-zu-welcher-hoehe-zahlt-haftpflicht/: {
+    block: 'div[class=c24Editor]', file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/15.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/deckungssumme/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/7.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/drohne/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/28.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/e-bike/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/31.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/ehrenamtliche-taetigkeiten/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/27.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/eigenschaeden/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/16.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/fahrlaessigkeit/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/17.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/fahrradschaeden/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/30.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/geschaedigter-familienmitglied/: {
+    block: 'div[class=c24Editor]', file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/25.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/glasbruchschaden/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/39.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/haus-mitversichert/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/40.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/hund/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/34.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/ist-die-haftpflichtversicherung-pflicht/: {
+    block: 'div[class=c24Editor]', file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/5.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/kind/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/23.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/kinder-mitversichern/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/22.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/kostenuebernahme/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/13.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/partner-mitversichern/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/20.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/partner-unverheiratet/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/21.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/passiver-rechtsschutz/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/11.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/raeumpflicht-streupflicht/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/42.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/schaden-zuerst-selbst-bezahlen/: {
+    block: 'div[class=c24Editor]', file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/18.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/schaeden-an-gemieteten-oder-geliehenen-sachen/: {
+    block: 'div[class=c24Editor]', file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/29.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/schluesseldienst/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/37.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/selbststaendige-taetigkeit/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/35.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/sinnvoll/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/2.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/steuerlich-absetzbar/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/12.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/student-bei-eltern-mitversichert/: {
+    block: 'div[class=c24Editor]', file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/24.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/verlust-wohnungs-arbeitsschluessel-mitversichert/: {
+    block: 'div[class=c24Editor]', file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/36.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/vermietung/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/41.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/versicherungsschutz-bei-freundschaftsdiensten/: {
+    block: 'div[class=c24Editor]', file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/26.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/vertragsaenderung/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/45.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/vorgehen-bei-kuendigung/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/43.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/vorgehen-im-schadensfall/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/19.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/vorteile-der-forderungsausfalldeckung/: {
+    block: 'div[class=c24Editor]', file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/8.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/wasserschaden/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/38.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/wechseln/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/44.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/welche-tiere-mitversichert/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/33.txt,
+    text: p, title: h1}
+  https://www.check24.de/privathaftpflicht/fragen/zusatzleistungen/: {block: 'div[class=c24Editor]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/9.txt,
+    text: p, title: h1}

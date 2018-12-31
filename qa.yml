@@ -1,0 +1,67 @@
+sites:
+  - host: check24.de
+    block: div[class=c24Editor]
+    title: h2
+    text: p
+    urls:
+      - https://www.check24.de/motorradversicherung/fragen/
+  - host: check24.de
+    block: div[class=c24Editor]
+    title: h1
+    text: p
+    urls:
+      - https://www.check24.de/privathaftpflicht/fragen/sinnvoll/
+      - https://www.check24.de/privathaftpflicht/fragen/beachten/
+      - https://www.check24.de/privathaftpflicht/fragen/sinnvoll/
+      - https://www.check24.de/privathaftpflicht/fragen/ist-die-haftpflichtversicherung-pflicht/
+      - https://www.check24.de/privathaftpflicht/fragen/beachten/
+      - https://www.check24.de/privathaftpflicht/fragen/beginn-versicherungsschutz/
+      - https://www.check24.de/privathaftpflicht/fragen/deckungssumme/
+      - https://www.check24.de/privathaftpflicht/fragen/vorteile-der-forderungsausfalldeckung/
+      - https://www.check24.de/privathaftpflicht/fragen/zusatzleistungen/
+      - https://www.check24.de/privathaftpflicht/fragen/best-leistungsgarantie/
+      - https://www.check24.de/privathaftpflicht/fragen/passiver-rechtsschutz/
+      - https://www.check24.de/privathaftpflicht/fragen/steuerlich-absetzbar/
+      - https://www.check24.de/privathaftpflicht/fragen/kostenuebernahme/
+      - https://www.check24.de/privathaftpflicht/fragen/ausschluesse/
+      - https://www.check24.de/privathaftpflicht/fragen/bis-zu-welcher-hoehe-zahlt-haftpflicht/
+      - https://www.check24.de/privathaftpflicht/fragen/eigenschaeden/
+      - https://www.check24.de/privathaftpflicht/fragen/fahrlaessigkeit/
+      - https://www.check24.de/privathaftpflicht/fragen/schaden-zuerst-selbst-bezahlen/
+      - https://www.check24.de/privathaftpflicht/fragen/vorgehen-im-schadensfall/
+      - https://www.check24.de/privathaftpflicht/fragen/partner-mitversichern/
+      - https://www.check24.de/privathaftpflicht/fragen/partner-unverheiratet/
+      - https://www.check24.de/privathaftpflicht/fragen/kinder-mitversichern/
+      - https://www.check24.de/privathaftpflicht/fragen/kind/
+      - https://www.check24.de/privathaftpflicht/fragen/student-bei-eltern-mitversichert/
+      - https://www.check24.de/privathaftpflicht/fragen/geschaedigter-familienmitglied/
+      - https://www.check24.de/privathaftpflicht/fragen/versicherungsschutz-bei-freundschaftsdiensten/
+      - https://www.check24.de/privathaftpflicht/fragen/ehrenamtliche-taetigkeiten/
+      - https://www.check24.de/privathaftpflicht/fragen/drohne/
+      - https://www.check24.de/privathaftpflicht/fragen/schaeden-an-gemieteten-oder-geliehenen-sachen/
+      - https://www.check24.de/privathaftpflicht/fragen/fahrradschaeden/
+      - https://www.check24.de/privathaftpflicht/fragen/e-bike/
+      - https://www.check24.de/privathaftpflicht/fragen/ausland/
+      - https://www.check24.de/privathaftpflicht/fragen/welche-tiere-mitversichert/
+      - https://www.check24.de/privathaftpflicht/fragen/hund/
+      - https://www.check24.de/privathaftpflicht/fragen/selbststaendige-taetigkeit/
+      - https://www.check24.de/privathaftpflicht/fragen/verlust-wohnungs-arbeitsschluessel-mitversichert/
+      - https://www.check24.de/privathaftpflicht/fragen/schluesseldienst/
+      - https://www.check24.de/privathaftpflicht/fragen/wasserschaden/
+      - https://www.check24.de/privathaftpflicht/fragen/glasbruchschaden/
+      - https://www.check24.de/privathaftpflicht/fragen/haus-mitversichert/
+      - https://www.check24.de/privathaftpflicht/fragen/vermietung/
+      - https://www.check24.de/privathaftpflicht/fragen/raeumpflicht-streupflicht/
+      - https://www.check24.de/privathaftpflicht/fragen/vorgehen-bei-kuendigung/
+      - https://www.check24.de/privathaftpflicht/fragen/wechseln/
+      - https://www.check24.de/privathaftpflicht/fragen/vertragsaenderung/
+  - host: check24.de
+    block: dl[class*=c24Accordion]
+    title: h3
+    text: p
+    urls:
+      - https://www.check24.de/kfz-versicherung/faq/
+
+
+
+

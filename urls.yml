@@ -1,0 +1,10 @@
+sites:
+  - host: check24.de
+    block: ul[class=div24LinkList]
+    link_selector: li[class=ico24HoverParent] > a
+    urls:
+      - https://www.check24.de/privathaftpflicht/fragen/
+
+
+
+
