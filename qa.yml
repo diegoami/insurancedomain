@@ -547,4 +547,40 @@ sites:
       - https://www.universa.de/kundenservice/haeufige-fragen-faq/unfallversicherung/unfallversicherung.htm
       - https://www.universa.de/kundenservice/haeufige-fragen-faq/berufsunfaehigkeitsversicherung/berufsunfaehigkeitsversicherung.htm
       - https://www.universa.de/kundenservice/haeufige-fragen-faq/kfz-versicherung/kfz-versicherung.htm
-
+  - host: tiroler-versicherung.at
+    block: div[class*=panel-default]
+    title: h4
+    texts:
+      - p
+      - li
+    urls:
+      - https://www.tiroler-versicherung.at/Service/Haeufig-gestellte-Fragen
+  - host: wohngebaeudeversicherung.eu
+    block: div[class=cnt-blck]
+    title: h2
+    texts:
+      - p
+      - li
+    urls:
+      - https://www.wohngebaeudeversicherung.eu/Wohngebaeudeversicherung-Haeufige-Fragen-15/
+  - host: allianz.de
+    block: div[class*=block-togglebox]
+    title: h5
+    texts:
+      - p
+      - li
+    urls:
+      - https://www.allianz.de/service/faq/#meine-allianz
+      - https://www.allianz.de/auto/kfz-versicherung/#faq
+      - https://www.allianz.de/auto/kfz-versicherung/haftpflichtversicherung/#haeufige-fragen
+      - https://www.allianz.de/auto/kfz-versicherung/teilkasko/#haeufige-fragen
+      - https://www.allianz.de/auto/kfz-versicherung/vollkasko/#faq
+      - https://www.allianz.de/recht-und-eigentum/rechtsschutzversicherung/#haeufige-fragen
+      - https://www.allianz.de/vorsorge/riester-rente/#haeufige-fragen-was-ist-eine-riester-rente-wie-bekomme-ich-sie
+      - https://www.allianz.de/vorsorge/ruerup-rente/#haeufige-fragen-ruerup-rente-basisrente
+      - https://www.allianz.de/vorsorge/private-rentenversicherung/#haeufige-fragen
+      - https://www.allianz.de/gesundheit/aerztetarif/#haeufige-fragen
+      - https://www.allianz.de/gesundheit/beihilfe/#haeufige-fragen
+      - https://www.allianz.de/reise-und-freizeit/reiseruecktrittsversicherung/#haeufige-fragen
+      - https://www.allianz.de/gesundheit/reisekrankenversicherung/#haeufige-fragen
+      - https://www.allianz.de/reise-und-freizeit/reisegepaeckversicherung/#haeufige-fragen
