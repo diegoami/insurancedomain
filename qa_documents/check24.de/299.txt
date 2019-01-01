@@ -1,0 +1,23 @@
+### https://www.check24.de/wohngebaeudeversicherung/fragen/beitrag-jaehrlich-teurer/
+###
+Warum wird die Wohngebäudeversicherung jährlich teurer?
+
+Eine Wohngebäudeversicherung ist als gleitende Neuwertversicherung aufgebaut. Dies bedeutet, dass die Wertsteigerung Ihres Hauses in den Versicherungsbeitrag mit eingerechnet wird und die Beitragszahlungen Ihrer Wohngebäudeversicherung jährlich teurer werden. Hierfür wird der gleitende Neuwertfaktor genutzt, mit dem der fiktive Wert, den das Gebäude im Jahre 1914 gehabt hätte (Wert 1914), in den gegenwärtigen Neubauwert umgerechnet wird. 
+
+Der Neubauwert Ihrer Immobilie wird dadurch jedes Jahr den steigenden Grundstücks-, Material- und Baupreisen angepasst, um das Risiko einer Unterversicherung zu vermeiden. Folglich erhöht sich auch jährlich Ihr Beitragssatz.
+Beispielrechnung:
+Versichertes Gebäude: Einfamilienhaus, Massiv-Bauweise (harte Bedachung, 1 OG ohne Keller), 150 qm in 22175 Hamburg
+
+Versicherte Gefahren: Feuer & Blitzschlag
+
+Baujahr 2018
+
+Günstigster Tarif: Gothaer Basis (nur mit Vorschadensfreiheit), 23,94 € jährlich (ohne Selbstbeteiligung)
+
+Teuerster Tarif: Schleswiger AG Exklusivschutz, 299,86 € jährlich (ohne Selbstbeteiligung)
+
+Gesamtersparnis: 92 %
+Quelle: CHECK24 Wohngebäude-Vergleich, 12/2018
+
+###
+

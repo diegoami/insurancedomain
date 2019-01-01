@@ -1,0 +1,25 @@
+### https://www.check24.de/wohngebaeudeversicherung/fragen/sinnvolle-deckungssumme/
+###
+Welche Deckungssummen sind sinnvoll?
+
+Als Deckungssumme (oder auch Versicherungssumme) bezeichnet man den vertraglich vereinbarten Höchstbetrag, den eine Versicherungsgesellschaft im Schadensfall zahlt. Dementsprechend sollte bei einer Wohngebäudeversicherung eine Deckungssumme gewählt werden, die dem Gebäudewert Ihres Hauses entspricht. 
+
+Um dem mit den Jahren steigenden Neubauwert einer Immobilie Rechnung zu tragen, nutzen Wohngebäudeversicherungen hierfür meist den gleitenden Neuwertfaktor. Durch Multiplikation mit dem sogenannten Wert 1914 wird dadurch jedes Jahr der Neubauwert ihrer Immobilie den steigenden Grundstücks- und Baupreisen angepasst, um im Versicherungsfall die vollen Kosten zu decken.
+
+Ist die Deckungssumme hingegen zu niedrig angesetzt, erhalten Sie nach einem Schaden im Zweifel nicht die notwendige Summe, um die entstandenen Schadenskosten vollständig zu decken. Man spricht hierbei von einer Unterversicherung. 
+Beispielrechnung:
+Versichertes Gebäude: Einfamilienhaus, Massiv-Bauweise (harte Bedachung, 1 OG ohne Keller), 150 qm in 22175 Hamburg
+
+Versicherte Gefahren: Feuer & Blitzschlag
+
+Baujahr 2018
+
+Günstigster Tarif: Gothaer Basis (nur mit Vorschadensfreiheit), 23,94 € jährlich (ohne Selbstbeteiligung)
+
+Teuerster Tarif: Schleswiger AG Exklusivschutz, 299,86 € jährlich (ohne Selbstbeteiligung)
+
+Gesamtersparnis: 92 %
+Quelle: CHECK24 Wohngebäude-Vergleich, 12/2018
+
+###
+

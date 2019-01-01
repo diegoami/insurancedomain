@@ -1,0 +1,27 @@
+### https://www.check24.de/wohngebaeudeversicherung/fragen/1914/
+###
+Was ist mit „Versicherungssumme 1914“ gemeint und wie wird sie ermittelt?
+
+Entscheidend für die passende Höhe der Versicherungsprämie der Wohngebäudeversicherung ist der Neubauwert Ihres Hauses. Diesen zu ermitteln ist enorm wichtig, damit Sie im Schadensfall ausreichend versichert sind. Wird der Wert zu niedrig angesetzt, besteht die Gefahr einer Unterversicherung.
+
+Im Zuge der Wertermittlung wird üblicherweise der sogenannte Wert 1914 herangezogen. Er gibt an, wie viel ein Neubau Ihres Hauses 1914 gekostet hätte, da in diesem Jahr die Baupreise sehr stabil waren.
+
+Um diesen Wert zu ermitteln, wird ein jährlich angepasster Baupreisindex herangezogen, der vom Statistischen Bundesamt veröffentlicht wird.
+
+Anhand dieser Kalkulation werden die Gebäudewertsteigerungen bei der Versicherungsprämie und der versicherten Summe berücksichtigt. Das bedeutet konkret: Wenn Sie einen Schaden erleiden, wird Ihr Haus zum aktuellen Wert aufgebaut. Man spricht deshalb bei der Wohngebäudeversicherung auch von einer gleitendenden Neuwertversicherung.
+Beispielrechnung:
+Versichertes Gebäude: Einfamilienhaus, Massiv-Bauweise (harte Bedachung, 1 OG ohne Keller), 150 qm in 22175 Hamburg
+
+Versicherte Gefahren: Feuer & Blitzschlag
+
+Baujahr 2018
+
+Günstigster Tarif: Gothaer Basis (nur mit Vorschadensfreiheit), 23,94 € jährlich (ohne Selbstbeteiligung)
+
+Teuerster Tarif: Schleswiger AG Exklusivschutz, 299,86 € jährlich (ohne Selbstbeteiligung)
+
+Gesamtersparnis: 92 %
+Quelle: CHECK24 Wohngebäude-Vergleich, 12/2018
+
+###
+
