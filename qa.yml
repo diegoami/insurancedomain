@@ -533,7 +533,7 @@ sites:
     urls:
       - https://www.check24.de/kfz-versicherung/faq/
   - host: universa.de
-    block: div[class*=mb_text mb_container foldout]
+    block: div[class*=mb_text]
     title: h2
     texts:
       - p

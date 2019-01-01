@@ -3479,4 +3479,60 @@ urls:
     - p
     - li
     title: h1
+  ? https://www.universa.de/kundenservice/haeufige-fragen-faq/berufsunfaehigkeitsversicherung/berufsunfaehigkeitsversicherung.htm
+  : block: div[class*=mb_text]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/universa.de/7.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.universa.de/kundenservice/haeufige-fragen-faq/haftpflichtversicherung/haftpflichtversicherung.htm:
+    block: div[class*=mb_text]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/universa.de/4.txt
+    texts:
+    - p
+    - li
+    title: h2
+  ? https://www.universa.de/kundenservice/haeufige-fragen-faq/hausrat-wohngebaeudeversicherung/hausrat-wohngebaeudeversicherung.htm
+  : block: div[class*=mb_text]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/universa.de/5.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.universa.de/kundenservice/haeufige-fragen-faq/kfz-versicherung/kfz-versicherung.htm:
+    block: div[class*=mb_text]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/universa.de/8.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.universa.de/kundenservice/haeufige-fragen-faq/krankenversicherung/allgemeine-fragen/allgemeine-fragen.htm:
+    block: div[class*=mb_text]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/universa.de/1.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.universa.de/kundenservice/haeufige-fragen-faq/krankenversicherung/im-leistungsfall/im-leistungsfall.htm:
+    block: div[class*=mb_text]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/universa.de/2.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.universa.de/kundenservice/haeufige-fragen-faq/lebens-rentenversicherung/lebens-rentenversicherung.htm:
+    block: div[class*=mb_text]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/universa.de/3.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.universa.de/kundenservice/haeufige-fragen-faq/unfallversicherung/unfallversicherung.htm:
+    block: div[class*=mb_text]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/universa.de/6.txt
+    texts:
+    - p
+    - li
+    title: h2
 
