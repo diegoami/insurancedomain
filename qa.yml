@@ -532,7 +532,19 @@ sites:
       - li
     urls:
       - https://www.check24.de/kfz-versicherung/faq/
-
-
-
+  - host: universa.de
+    block: div[class*=mb_text mb_container foldout]
+    title: h2
+    texts:
+      - p
+      - li
+    urls:
+      - https://www.universa.de/kundenservice/haeufige-fragen-faq/krankenversicherung/allgemeine-fragen/allgemeine-fragen.htm
+      - https://www.universa.de/kundenservice/haeufige-fragen-faq/krankenversicherung/im-leistungsfall/im-leistungsfall.htm
+      - https://www.universa.de/kundenservice/haeufige-fragen-faq/lebens-rentenversicherung/lebens-rentenversicherung.htm
+      - https://www.universa.de/kundenservice/haeufige-fragen-faq/haftpflichtversicherung/haftpflichtversicherung.htm
+      - https://www.universa.de/kundenservice/haeufige-fragen-faq/hausrat-wohngebaeudeversicherung/hausrat-wohngebaeudeversicherung.htm
+      - https://www.universa.de/kundenservice/haeufige-fragen-faq/unfallversicherung/unfallversicherung.htm
+      - https://www.universa.de/kundenservice/haeufige-fragen-faq/berufsunfaehigkeitsversicherung/berufsunfaehigkeitsversicherung.htm
+      - https://www.universa.de/kundenservice/haeufige-fragen-faq/kfz-versicherung/kfz-versicherung.htm
 

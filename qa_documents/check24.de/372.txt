@@ -1,0 +1,34 @@
+### https://www.check24.de/gesetzliche-krankenversicherung/fragen/existenzgruender/
+###
+Kann ich mich als Existenzgründer gesetzlich versichern?
+
+Als Existenzgründer können Sie sich gesetzlich krankenversichern. Die Voraussetzung dafür ist, dass Sie bereits zuvor gesetzlich versichert waren. Dann haben Sie bei Ihrer Existenzgründung die freie Wahl zwischen einer privaten Krankenversicherung und einer freiwilligen Mitgliedschaft in der gesetzlichen Krankenversicherung.
+
+Die Beiträge für die gesetzliche Krankenversicherung sind einkommensabhängig. Auch Einnahmen wie zum Beispiel Kapitalerträge werden bei der Beitragsberechnung für Selbstständige berücksichtigt. Als Grundlage dient der jährliche Einkommensteuerbescheid. Da Existenzgründer noch keinen Bescheid aus ihrer selbstständigen Arbeit haben, wird das Einkommen zunächst geschätzt.
+
+Auf der Grundlage dieser Schätzung berechnet die Krankenkasse die Höhe des Beitrags vorläufig. Wenn der Bescheid vorliegt, werden die Beiträge rückwirkend festgelegt. Diese Regelung gilt ab 2018 und kann sowohl zu Nach- als auch Rückzahlungen führen.
+
+Bei der Einkommensberechnung gibt es eine Ober- und Untergrenze. Die Untergrenze liegt bei 1.038,33 Euro monatlich – wer weniger verdient, muss dennoch auf dieses fiktive Mindesteinkommen Krankenkassenbeiträge bezahlen. Die Obergrenze beträgt aktuell 4.537,50 Euro. Auf das darüber liegende Einkommen müssen keine Beiträge bezahlt werden.
+
+Ausnahme: Gründungszuschuss
+
+Für Existenzgründer, die von der Agentur für Arbeit einen Gründungszuschuss erhalten, gilt eine niedrigere Untergrenze von {$MIN_BEMESSUNGSGRUNDLAGE_HAERTEFALL} Euro im Monat.
+
+Auf das geschätzte Einkommen müssen Existenzgründer einen ermäßigten Beitragssatz von 14,0 Prozent zahlen. Bei einer Krankenversicherung, die bei längerer Arbeitsunfähigkeit ein Krankengeld ausbezahlt, wird ein Beitragssatz von 14,6 Prozent fällig.
+
+Hinzu kommt der individuelle Zusatzbeitrag der jeweiligen Krankenkasse. Im Schnitt beträgt dieser 0,9 Prozent (Stand: 2019).
+Beispielrechnung:
+Ein Arbeitnehmer in Sachsen-Anhalt mit Einkommen über 54.450 € p.a.
+
+Günstigste Kasse: 14,90 % Beitragssatz, 4.056,53 € jährlich
+
+Teuerste Kasse: 16,30 % Beitragssatz, 4.437,68 € jährlich
+
+Mitgliedschaft ab 1. Januar 2019
+
+Ersparnis Arbeitnehmer: 381,15 € jährlich
+Ersparnis Arbeitnehmer und Arbeitgeber: 762,30 € jährlich
+Quelle: CHECK24-Vergleich für gesetzliche Krankenkassen, 11/2018
+
+###
+

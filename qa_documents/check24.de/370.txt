@@ -1,0 +1,35 @@
+### https://www.check24.de/gesetzliche-krankenversicherung/fragen/ohne-einkommen/
+###
+Wie kann ich mich versichern, wenn ich kein Einkommen habe?
+
+Haben Sie kein Einkommen und ist Ihr Ehe- oder Lebenspartner gesetzlich versichert, ist in der Regel eine kostenlose Familienversicherung der GKV möglich. Dies gilt auch für Kinder, so lange die Altersgrenzen noch nicht überschritten sind: Über ihre Eltern sind Kinder bis zum 23. Lebensjahr, bei einer Schul- oder Berufsausbildung bis zum 25. Lebensjahr krankenversichert.
+
+Dies ist die kostengünstigste Art einer Krankenversicherung: Versicherte Angehörige zahlen keinen eigenen Beitrag an die Krankenkassen.
+
+Keine Familienversicherung in der PKV
+
+In der privaten Krankenversicherung gibt es keine Familienversicherung für Angehörige wie in der gesetzlichen Krankenversicherung. Partner oder Kinder müssen hier stets eigene Beiträge zahlen.
+
+Ist eine Familienversicherung nicht möglich, müssen sich Personen ohne Einkommen freiwillig gesetzlich versichern. Dann wird die Krankenkasse einen Mindestbeitrag verlangen.
+
+Dazu geht die Kasse von einem fiktiven Mindesteinkommen aus. Im Jahr 2019 sind dies {$MIN_BEMESSUNGSGRUNDLAGE_SONSTIGE} Euro. Auf dieses Einkommen werden 14,0 Prozent (ohne Krankengeld-Anspruch) oder 14,6 Prozent (mit Krankengeld) Beitragssatz fällig – sowie der Zusatzbeitrag der jeweiligen Kasse.
+ 
+
+Bezug von ALG-II oder Grundsicherung
+
+Wer dauerhaft kein Einkommen bezieht und kein Vermögen besitzt, von dem er leben kann, hat in der Regel Anspruch auf Arbeitslosengeld II (ALG-II) oder Grundsicherung im Alter und bei Erwerbsminderung. Dann übernimmt das Jobcenter oder Sozialamt die Beiträge für die gesetzliche Krankenversicherung.
+Beispielrechnung:
+Ein Arbeitnehmer in Sachsen-Anhalt mit Einkommen über 54.450 € p.a.
+
+Günstigste Kasse: 14,90 % Beitragssatz, 4.056,53 € jährlich
+
+Teuerste Kasse: 16,30 % Beitragssatz, 4.437,68 € jährlich
+
+Mitgliedschaft ab 1. Januar 2019
+
+Ersparnis Arbeitnehmer: 381,15 € jährlich
+Ersparnis Arbeitnehmer und Arbeitgeber: 762,30 € jährlich
+Quelle: CHECK24-Vergleich für gesetzliche Krankenkassen, 11/2018
+
+###
+

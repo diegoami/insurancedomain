@@ -1,5 +1,4 @@
-None
-
+urls:
   https://www.check24.de/basisrente/fragen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/245.txt
@@ -763,6 +762,76 @@ None
     - p
     - li
     title: h1
+  https://www.check24.de/heilpraktiker-brillenzusatz/fragen/altersrueckstellungen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/457.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/heilpraktiker-brillenzusatz/fragen/ausschluesse/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/455.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/heilpraktiker-brillenzusatz/fragen/beitragssatz/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/458.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/heilpraktiker-brillenzusatz/fragen/familienversicherung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/462.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/heilpraktiker-brillenzusatz/fragen/kosten/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/454.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/heilpraktiker-brillenzusatz/fragen/kuendigung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/460.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/heilpraktiker-brillenzusatz/fragen/leistungen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/459.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/heilpraktiker-brillenzusatz/fragen/sinnvoll/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/453.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/heilpraktiker-brillenzusatz/fragen/wartezeiten/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/456.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/heilpraktiker-brillenzusatz/fragen/wechsel/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/461.txt
+    texts:
+    - p
+    - li
+    title: h1
   https://www.check24.de/hundehaftpflicht/fragen/ab-wann-gilt-der-versicherungsschutz/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/69.txt
@@ -1097,6 +1166,83 @@ None
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/4.txt
     text: p
     title: h3
+  https://www.check24.de/krankenhauszusatzversicherung/fragen/altersrueckstellungen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/449.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/krankenhauszusatzversicherung/fragen/ausschluesse/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/444.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/krankenhauszusatzversicherung/fragen/beitragssatz/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/448.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/krankenhauszusatzversicherung/fragen/familienversicherung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/450.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/krankenhauszusatzversicherung/fragen/goae/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/447.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/krankenhauszusatzversicherung/fragen/kosten/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/443.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/krankenhauszusatzversicherung/fragen/kuendigung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/451.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/krankenhauszusatzversicherung/fragen/leistungen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/446.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/krankenhauszusatzversicherung/fragen/sinnvoll/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/442.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/krankenhauszusatzversicherung/fragen/wartezeiten/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/445.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/krankenhauszusatzversicherung/fragen/wechsel/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/452.txt
+    texts:
+    - p
+    - li
+    title: h1
   https://www.check24.de/motorradversicherung/fragen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/1.txt
@@ -1189,6 +1335,265 @@ None
   https://www.check24.de/pferdehaftpflicht/fragen/wechseln/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/95.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/abschluss/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/488.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/aenderungen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/499.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/alter/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/490.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/ambulant-stationaer/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/471.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/angebot/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/497.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/angehoerige/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/469.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/ansprechpartner/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/498.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/ausschluss/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/479.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/beitragsaussetzung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/485.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/beitragsfreistellung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/486.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/beitragssatz/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/483.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/beitragsstabilitaet/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/484.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/definition/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/463.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/feststellung-pflegebeduerftigkeit/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/481.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/formen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/466.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/gesundheitsfragen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/489.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/haeusliche-pflege/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/478.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/jung-abschliessen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/464.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/kuendigen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/493.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/leistungen-beantragen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/482.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/leistungen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/474.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/leistungsfall/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/480.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/luecke/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/467.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/online-abschliessen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/491.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/pflegebeduerftig/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/473.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/pflegegeld-erhoehen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/476.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/pflegegeld/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/475.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/pflegepflichtversicherung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/468.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/pflegestaerkungsgesetz/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/472.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/privat-versichert/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/465.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/steuerlich-absetzbar/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/487.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/todesfall-versicherungsnehmer/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/495.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/vertragsaenderung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/494.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/vorteile/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/496.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/wartezeiten/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/477.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/wechsel/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/492.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/pflegeversicherung/fragen/welcher-pflegegrad/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/470.txt
     texts:
     - p
     - li
@@ -2801,9 +3206,72 @@ None
     - p
     - li
     title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/aenderungen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/436.txt
+    texts:
+    - p
+    - li
+    title: h1
   https://www.check24.de/zahnzusatzversicherung/fragen/alter/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/406.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/alterungsrueckstellung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/421.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/ansprechpartner/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/434.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/ausschluss/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/417.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/bausteine/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/414.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/beachten/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/426.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/beitragsfreistellung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/425.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/beitragssatz/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/420.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/bonusheft/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/419.txt
     texts:
     - p
     - li
@@ -2815,9 +3283,65 @@ None
     - p
     - li
     title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/gesundheitsfragen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/428.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/gutschein/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/435.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/heil-kostenplan/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/430.txt
+    texts:
+    - p
+    - li
+    title: h1
   https://www.check24.de/zahnzusatzversicherung/fragen/kinder-sinnvoll/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/408.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/kosmetische-behandlung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/411.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/kostenerstattung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/416.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/kostenuebernahme/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/415.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/kuendigen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/438.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/kv-wechsel/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/437.txt
     texts:
     - p
     - li
@@ -2829,9 +3353,51 @@ None
     - p
     - li
     title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/leistungen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/409.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/online-vergleich/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/427.txt
+    texts:
+    - p
+    - li
+    title: h1
   https://www.check24.de/zahnzusatzversicherung/fragen/privat-versichert/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/405.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/rechnung-einreichen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/431.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/regelversorgung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/413.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/schadensversicherung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/422.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/selbstbeteiligung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/432.txt
     texts:
     - p
     - li
@@ -2843,3 +3409,74 @@ None
     - p
     - li
     title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/sonderleistungen/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/418.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/stabiler-beitrag/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/424.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/steuerlich-absetzbar/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/423.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/termin/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/429.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/versicherungsschutz/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/410.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/vertragsaenderung/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/441.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/vertragsuebernahme/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/440.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/vorteile/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/433.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/wechsel/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/439.txt
+    texts:
+    - p
+    - li
+    title: h1
+  https://www.check24.de/zahnzusatzversicherung/fragen/zahnstaffel/:
+    block: div[class=c24Editor]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/412.txt
+    texts:
+    - p
+    - li
+    title: h1
+
