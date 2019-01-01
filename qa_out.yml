@@ -1,358 +1,353 @@
 urls:
-  https://www.check24.de/basisrente/fragen/:
-    block: div[class=c24Editor]
-    file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/48.txt
-    texts: &id002 [p, li]
-    title: h2
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/ausschluss/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/229.txt
-    texts: &id001 [p, li]
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/beachten/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/224.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/beitragsaussetzung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/242.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/beitragssatz/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/235.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/bu-invest/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/238.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/bu-rente-beantragen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/230.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/deckungssumme/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/234.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/definition/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/222.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/kosten/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/237.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/lebenssituation/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/241.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/leistungen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/231.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/leistungsfall/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/228.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/praxisbeispiele/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/227.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/sinnvoll/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/223.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/steuerlich-absetzbar/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/239.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/tarifdetails/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/232.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/ursachen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/226.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/vergleichen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/225.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/vertragsaenderung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/240.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/vorgehen-bei-kuendigung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/244.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/vorteile/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/236.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/wechseln/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/243.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/zusatzbausteine/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/233.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/ab-wann-gilt-der-versicherungsschutz/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/69.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/ausfalldeckung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/66.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/ausland/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/62.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/ausschluss/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/59.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/beachten/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/50.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/beitragssatz/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/73.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/besteuert/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/77.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/bundeslaender/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/52.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/deckungssumme/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/72.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/familie-freunde-bekannte/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/71.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/gefaehrlichen-hund-melden/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/53.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/hund-privathaftpflicht/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/55.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/hundepension/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/70.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/hundeveranstaltungen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/65.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/kampfhunde-listenhunde/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/54.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/kostenuebernahme/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/57.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/lebenssituation-aenderung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/81.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/leinenzwang/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/63.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/leistungen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/61.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/mietsachschaeden/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/64.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/rasse-unbekannt/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/51.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/schadensfall/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/56.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/selbstverteidigung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/60.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/sinnvoll/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/49.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/steuerlich-absetzbar/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/76.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/todesfall-weggegeben/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/82.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/umzug/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/80.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/ungewollter-deckakt/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/58.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/vergleichsrechner-bedienungsanleitung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/68.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/versicherungsvertrag-aendern/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/83.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/vorgehen-bei-kuendigung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/78.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/vorteile/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/74.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/wechseln/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/79.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/welpen-mitversichert/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/67.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundehaftpflicht/fragen/wie-teuer-ist-eine-hundehaftpflichtversicherung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/75.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundekrankenversicherung/fragen/ausschluss/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/100.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundekrankenversicherung/fragen/beachten/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/97.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundekrankenversicherung/fragen/beitragssatz/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/103.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundekrankenversicherung/fragen/deckungssumme/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/105.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundekrankenversicherung/fragen/kostenuebernahme/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/101.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundekrankenversicherung/fragen/leistungen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/102.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundekrankenversicherung/fragen/sinnvoll/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/98.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundekrankenversicherung/fragen/steuerlich-absetzbar/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/106.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundekrankenversicherung/fragen/vorgehen-bei-kuendigung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/108.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundekrankenversicherung/fragen/vorteile/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/104.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundekrankenversicherung/fragen/wartezeit/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/99.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/hundekrankenversicherung/fragen/wechseln/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/107.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/kfz-versicherung/faq/: {block: 'dl[class*=c24Accordion]',
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/4.txt,
@@ -363,67 +358,67 @@ urls:
   https://www.check24.de/pferdehaftpflicht/fragen/ausschluesse/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/86.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/pferdehaftpflicht/fragen/beitragssatz/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/91.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/pferdehaftpflicht/fragen/deckungssumme/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/90.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/pferdehaftpflicht/fragen/kostenuebernahme/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/87.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/pferdehaftpflicht/fragen/leistungen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/89.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/pferdehaftpflicht/fragen/schadensfall/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/88.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/pferdehaftpflicht/fragen/sinnvoll/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/84.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/pferdehaftpflicht/fragen/steuerlich-absetzbar/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/93.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/pferdehaftpflicht/fragen/versicherungssteuer/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/94.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/pferdehaftpflicht/fragen/vertragsabschluss/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/85.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/pferdehaftpflicht/fragen/vorgehen-bei-kuendigung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/96.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/pferdehaftpflicht/fragen/vorteile/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/92.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/pferdehaftpflicht/fragen/wechseln/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/95.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/privathaftpflicht/fragen/ausland/: {block: 'div[class=c24Editor]',
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/32.txt,
@@ -557,287 +552,287 @@ urls:
   https://www.check24.de/rechtsschutzversicherung/fragen/ausland/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/138.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/ausschluss/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/140.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/beachten/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/113.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/beitragsaussetzung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/129.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/beitragssatz/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/131.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/berufsrechtsschutz-ab-welcher-instanz/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/149.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/berufsrechtsschutz-arbeitgeber/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/152.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/berufsrechtsschutz-beamte/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/151.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/berufsrechtsschutz-bereiche/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/148.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/berufsrechtsschutz-fallbeispiele/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/154.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/berufsrechtsschutz-mobbing/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/150.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/beste-rechtsschutzversicherung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/110.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/deckungshoehe/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/130.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/erbrecht-scheidung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/118.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/fahrrad/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/157.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/freie-anwaltswahl/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/117.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/kapitalanlagerecht/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/123.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/kostenuebernahme/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/139.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/leistungen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/116.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/nebenklaeger-strafverfahren/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/119.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/partner-mitversichert/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/121.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/privatrechtsschutz-bereiche/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/144.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/privatrechtsschutz-fallbeispiele/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/147.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/privatrechtsschutz-kitaplatz-studienplatzklagen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/146.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/privatrechtsschutz-sofort-schutz/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/145.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/rechtsschutz-internet/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/125.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/reise/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/128.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/schadensfall/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/137.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/sinnvoll/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/109.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/steuerlich-absetzbar/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/136.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/streitigkeiten-mit-behoerden/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/122.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/telefonische-rechtsberatung-anwaltshotline/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/127.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/trotz-laufendem-verfahren/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/111.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/unterhalt-sorgerecht/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/126.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/vermietete-wohnung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/120.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/versicherungsschutz-anpassen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/115.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/versicherungssteuer/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/135.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/versicherungsvertrag-aendern/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/142.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/vorgehen-bei-kuendigung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/141.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/vorsatztaten-mitversichert/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/114.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/vorteile/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/133.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/wartezeit-berufsrechtsschutz/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/153.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/was-deckt-verkehrsrechtsschutz-ab/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/158.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/wechsel/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/143.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/welche-bereiche-versichern/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/112.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/welche-selbstbeteiligung-sinnvoll/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/132.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/welche-wartezeiten-gibt-es/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/124.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/wer-ist-im-bereich-verkehr-versichert/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/155.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/wie-teuer-ist-eine-rechtsschutzversicherung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/134.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/wie-viele-fahrzeuge-versichert/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/156.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/wohnrechtsschutz-leistungen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/159.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/wohnrechtsschutz-selbst-genutzte-wohneinheit/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/165.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/wohnrechtsschutz-streit-mieter-vermieter/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/163.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/wohnrechtsschutz-typische-faelle/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/161.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/wohnrechtsschutz-wartezeit/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/162.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/wohnrechtsschutz-wer-versichert/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/160.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rechtsschutzversicherung/fragen/wohnrechtsschutz-zweitwohnung-versichert/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/164.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/rentenversicherung/fragen/:
     block: div[class=c24Editor]
@@ -847,280 +842,280 @@ urls:
   https://www.check24.de/risikolebensversicherung/fragen/angebot/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/197.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/anleitung-vergleich/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/169.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/ansprechpartner/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/198.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/ausschluss/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/180.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/auszahlung-steuer/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/185.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/auszahlung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/184.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/beachten/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/168.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/beitragsaussetzung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/191.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/beitragssatz/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/188.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/brutto-netto-beitrag/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/190.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/deckungshoehe/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/175.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/definition/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/166.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/eltern/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/172.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/ende-laufzeit/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/183.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/gefaehrliches-hobby/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/179.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/gesundheitsfragen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/174.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/kosten/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/189.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/krankheiten-hobbys-nachmelden/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/173.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/laufzeit/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/170.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/lebenssituation/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/192.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/leistungen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/181.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/partner/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/186.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/raucher-nichtraucher/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/171.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/sinnvoll/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/167.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/steuerlich-absetzbar/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/187.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/unterschied/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/178.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/varianten/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/176.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/vertragsaenderung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/193.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/vorgehen-bei-kuendigung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/195.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/vorteile/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/196.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/wechseln/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/194.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/zahlungsweise/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/177.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/risikolebensversicherung/fragen/zusatzversicherungen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/182.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/ausschluesse/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/209.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/beachten/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/201.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/beitragsfreistellung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/213.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/beitragssatz/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/211.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/deckungssumme/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/210.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/definition/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/199.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/dynamik/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/214.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/kosten/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/212.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/kuendigungsprozess/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/220.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/lebenssituation/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/217.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/leistungen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/202.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/sinnvoll/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/200.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/sport/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/203.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/steuerlich-absetzbar/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/215.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/todesfall-versicherungsnehmer/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/221.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/vergleichen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/206.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/versicherungsfall/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/208.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/versicherungsschutz/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/207.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/versicherungssteuer/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/216.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/vertragsaenderung/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/218.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/vorerkrankungen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/205.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/vorteil-progression/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/204.txt
-    texts: *id001
+    texts: [p, li]
     title: h1
   https://www.check24.de/unfallversicherung/fragen/wechsel/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/219.txt
-    texts: *id001
+    texts: [p, li]
     title: h1

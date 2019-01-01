@@ -2,15 +2,33 @@ urls:
   https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/: {block: 'ul[class=div24LinkList]',
     file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/8.txt, link_selector: 'li[class=ico24HoverParent]
       > a'}
+  https://www.check24.de/gesetzliche-krankenversicherung/fragen/: {block: 'ul[class=div24LinkList]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/12.txt,
+    link_selector: 'li[class=ico24HoverParent] > a'}
+  https://www.check24.de/hausratversicherung/fragen/: {block: 'ul[class=div24LinkList]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/9.txt, link_selector: 'li[class=ico24HoverParent]
+      > a'}
+  https://www.check24.de/heilpraktiker-brillenzusatz/fragen/: {block: 'ul[class=div24LinkList]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/15.txt,
+    link_selector: 'li[class=ico24HoverParent] > a'}
   https://www.check24.de/hundehaftpflicht/fragen/: {block: 'ul[class=div24LinkList]',
     file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/2.txt, link_selector: 'li[class=ico24HoverParent]
       > a'}
   https://www.check24.de/hundekrankenversicherung/fragen/: {block: 'ul[class=div24LinkList]',
     file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/4.txt, link_selector: 'li[class=ico24HoverParent]
       > a'}
+  https://www.check24.de/krankenhauszusatzversicherung/fragen/: {block: 'ul[class=div24LinkList]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/14.txt,
+    link_selector: 'li[class=ico24HoverParent] > a'}
   https://www.check24.de/pferdehaftpflicht/fragen/: {block: 'ul[class=div24LinkList]',
     file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/3.txt, link_selector: 'li[class=ico24HoverParent]
       > a'}
+  https://www.check24.de/pflegeversicherung/fragen/: {block: 'ul[class=div24LinkList]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/16.txt,
+    link_selector: 'li[class=ico24HoverParent] > a'}
+  https://www.check24.de/private-krankenversicherung/fragen/: {block: 'ul[class=div24LinkList]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/11.txt,
+    link_selector: 'li[class=ico24HoverParent] > a'}
   https://www.check24.de/privathaftpflicht/fragen/: {block: 'ul[class=div24LinkList]',
     file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/1.txt, link_selector: 'li[class=ico24HoverParent]
       > a'}
@@ -23,3 +41,9 @@ urls:
   https://www.check24.de/unfallversicherung/fragen/: {block: 'ul[class=div24LinkList]',
     file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/7.txt, link_selector: 'li[class=ico24HoverParent]
       > a'}
+  https://www.check24.de/wohngebaeudeversicherung/fragen/: {block: 'ul[class=div24LinkList]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/10.txt,
+    link_selector: 'li[class=ico24HoverParent] > a'}
+  https://www.check24.de/zahnzusatzversicherung/fragen/: {block: 'ul[class=div24LinkList]',
+    file_name: /home/diegoami/projects/insurancedomain/qa_urls/check24.de/13.txt,
+    link_selector: 'li[class=ico24HoverParent] > a'}
