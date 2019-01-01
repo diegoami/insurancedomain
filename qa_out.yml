@@ -837,7 +837,7 @@ urls:
   https://www.check24.de/rentenversicherung/fragen/:
     block: div[class=c24Editor]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/check24.de/46.txt
-    texts: *id002
+    texts: [p, li]
     title: h2
   https://www.check24.de/risikolebensversicherung/fragen/angebot/:
     block: div[class=c24Editor]
