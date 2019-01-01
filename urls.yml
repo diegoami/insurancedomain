@@ -4,6 +4,13 @@ sites:
     link_selector: li[class=ico24HoverParent] > a
     urls:
       - https://www.check24.de/privathaftpflicht/fragen/
+      - https://www.check24.de/hundehaftpflicht/fragen/
+      - https://www.check24.de/pferdehaftpflicht/fragen/
+      - https://www.check24.de/hundekrankenversicherung/fragen/
+      - https://www.check24.de/rechtsschutzversicherung/fragen/
+      - https://www.check24.de/risikolebensversicherung/fragen/
+      - https://www.check24.de/unfallversicherung/fragen/
+      - https://www.check24.de/berufsunfaehigkeitsversicherung/fragen/
 
 
 
