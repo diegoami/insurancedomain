@@ -3822,6 +3822,13 @@ urls:
     - p
     - li
     title: h2
+  https://www.test.de/kfz-versicherungsvergleich-1575560-4899414:
+    block: div[class=faq__section__item]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/test.de/1.txt
+    texts:
+    - p
+    - li
+    title: h4
   https://www.tiroler-versicherung.at/Service/Haeufig-gestellte-Fragen:
     block: div[class*=panel-default]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/tiroler-versicherung.at/1.txt

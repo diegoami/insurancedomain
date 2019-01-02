@@ -652,3 +652,12 @@ sites:
       - li
     urls:
       - https://www.huk.de/service/apps/faq-pkv-rechnungs-app.html
+  - host: test.de
+    block: div[class=faq__section__item]
+    title: h4
+    texts:
+      - p
+      - li
+    urls:
+      - https://www.test.de/kfz-versicherungsvergleich-1575560-4899414
+      - https://www.test.de/Private-Haftpflichtversicherung-Voller-Schutz-und-Geld-gespart-1131533-5408952/
