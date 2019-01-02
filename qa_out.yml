@@ -3822,6 +3822,55 @@ urls:
     - p
     - li
     title: h2
+  https://www.test.de/Berufsunfaehigkeitsversicherung-im-Test-4881349-2560151/:
+    block: div[class=faq__section__item]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/test.de/4.txt
+    texts:
+    - p
+    - li
+    title: h4
+  https://www.test.de/FAQ-Hausratversicherung-Wer-sie-braucht-was-versichert-ist-wichtige-Extras-4963790-0/:
+    block: div[class=faq__section__item]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/test.de/3.txt
+    texts:
+    - p
+    - li
+    title: h4
+  https://www.test.de/FAQ-Pflegende-Angehoerige-Neue-Regeln-fuer-die-Unfallversicherung-5218147-0/:
+    block: div[class=faq__section__item]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/test.de/8.txt
+    texts:
+    - p
+    - li
+    title: h4
+  https://www.test.de/FAQ-Rechtsschutzversicherung-Ihre-Fragen-unsere-Antworten-4968203-0/:
+    block: div[class=faq__section__item]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/test.de/5.txt
+    texts:
+    - p
+    - li
+    title: h4
+  https://www.test.de/FAQ-Reiseversicherung-Antworten-auf-die-wichtigsten-Fragen-4850274-0/:
+    block: div[class=faq__section__item]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/test.de/7.txt
+    texts:
+    - p
+    - li
+    title: h4
+  https://www.test.de/FAQ-Versicherungsbeitraege-Was-saeumigen-Zahlern-droht-4796965-0/:
+    block: div[class=faq__section__item]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/test.de/6.txt
+    texts:
+    - p
+    - li
+    title: h4
+  https://www.test.de/Private-Haftpflichtversicherung-Voller-Schutz-und-Geld-gespart-1131533-5408952/:
+    block: div[class=faq__section__item]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/test.de/2.txt
+    texts:
+    - p
+    - li
+    title: h4
   https://www.test.de/kfz-versicherungsvergleich-1575560-4899414:
     block: div[class=faq__section__item]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/test.de/1.txt
