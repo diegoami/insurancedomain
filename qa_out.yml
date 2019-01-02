@@ -3577,6 +3577,167 @@ urls:
     - p
     - li
     title: h1
+  https://www.preisvergleich.de/versicherungen/berufsunfaehigkeitsversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/1.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/gebaeudeversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/3.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/gesetzliche-krankenversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/10.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/gewerbeversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/4.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/hausratversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/7.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/kfz-versicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/8.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/krankenversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/9.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/krankenzusatzversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/11.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/lebensversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/14.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/mietkautionsversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/16.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/private-haftpflichtversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/5.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/private-krankenversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/12.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/private-pflegeversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/23.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/rechtsschutzversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/17.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/reisegepaeckversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/19.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/reisekrankenversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/20.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/reiseruecktrittsversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/21.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/reiseversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/18.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/rentenversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/22.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/risikolebensversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/15.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/tierhaftpflichtversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/6.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/unfallversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/2.txt
+    texts:
+    - p
+    - li
+    title: h2
+  https://www.preisvergleich.de/versicherungen/zahnzusatzversicherungen-faq/:
+    block: div[class*=boxParagraph]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/13.txt
+    texts:
+    - p
+    - li
+    title: h2
   https://www.tiroler-versicherung.at/Service/Haeufig-gestellte-Fragen:
     block: div[class*=panel-default]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/tiroler-versicherung.at/1.txt

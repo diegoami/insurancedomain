@@ -584,3 +584,33 @@ sites:
       - https://www.allianz.de/reise-und-freizeit/reiseruecktrittsversicherung/#haeufige-fragen
       - https://www.allianz.de/gesundheit/reisekrankenversicherung/#haeufige-fragen
       - https://www.allianz.de/reise-und-freizeit/reisegepaeckversicherung/#haeufige-fragen
+  - host: preisvergleich.de
+    block: div[class*=boxParagraph]
+    title: h2
+    texts:
+      - p
+      - li
+    urls:
+      - https://www.preisvergleich.de/versicherungen/berufsunfaehigkeitsversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/unfallversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/gebaeudeversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/gewerbeversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/private-haftpflichtversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/tierhaftpflichtversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/hausratversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/kfz-versicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/krankenversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/gesetzliche-krankenversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/krankenzusatzversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/private-krankenversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/zahnzusatzversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/lebensversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/risikolebensversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/mietkautionsversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/rechtsschutzversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/reiseversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/reisegepaeckversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/reisekrankenversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/reiseruecktrittsversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/rentenversicherungen-faq/
+      - https://www.preisvergleich.de/versicherungen/private-pflegeversicherungen-faq/
