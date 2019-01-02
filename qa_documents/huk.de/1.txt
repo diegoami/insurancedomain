@@ -1,0 +1,109 @@
+### https://www.huk.de/service/apps/faq-pkv-rechnungs-app.html
+###
+
+					Wie registriere ich mich?
+				
+Um die App zu nutzen, ist eine Registrierung in Ihrem persönlichen Servicebereich „Meine HUK“ auf www.huk.de/login notwendig. Alle wichtigen Informationen sind dort zu finden. Alternativ gelangen Sie in der App über die Schaltfläche „Jetzt registrieren“ in Ihren persönlichen Servicebereich „Meine HUK“. 
+###
+
+					Wie melde ich mich an?
+				
+Nach der erfolgreichen Registrierung zu „Meine HUK“ verwenden Sie den gleichen Benutzernamen und das gleiche Passwort auch zur Anmeldung in der App. 
+###
+
+					Was passiert, wenn ich mein Passwort falsch eingebe?
+				
+Falls Sie sich mehrfach mit falschem Passwort anmelden, ist eine erneute Anmeldung aus Sicherheitsgründen erst nach einer kurzen Wartezeit möglich. Nach fünf fehlerhaften Anmeldungen wird die App aus Sicherheitsgründen vorerst gesperrt. Sie müssen dann ein neues Passwort in Ihrem Kundenordner „Meine HUK“ anlegen, um die App wieder nutzen zu können. 
+###
+
+					Was passiert mit meinen Daten bei einer Deinstallation?
+				
+Bei einer Deinstallation werden alle Daten (Fotos, gespeicherte Vorgänge, etc.) der Rechnungs-App im Smartphone oder Tablet gelöscht und sind nicht wieder herstellbar. Dokumente, die bereits an die HUK übertragen wurden, bleiben dort erhalten und werden nicht gelöscht. 
+###
+
+					Ist eine Nutzung der App auf mehreren Geräten möglich?
+				
+Ja, hierzu ist jeweils eine eigenständige Anmeldung je Gerät erforderlich.
+Achtung: Es erfolgt keine Synchronisation zwischen den Geräten. 
+###
+
+					Welche Rechnungen kann ich mit der App einreichen?
+				
+Alle Rechnungen/Verordnungen für Ihre private Krankenversicherung ohne Ausnahme: Arztrechnungen/Zahnarztrechnungen Für Medikamente/Heilmittel wie z. B. Massagen, Krankengymnastik/Hilfsmittel, z.B. Sehhilfen, Bandagen Hebammen-/Heilpraktikerrechnungen Krankenhausrechnungen etc. 
+###
+
+					Kann ich mit der App gleichzeitig mehrere Rechnungen einreichen?
+				
+Ja, die App bietet die Möglichkeit mehrere Rechnungen innerhalb eines Dokumentes einzureichen. Hierzu fotografieren Sie nacheinander die Seiten aller Rechnungen ab, die Sie einreichen möchten. Über „Seite hinzufügen“ können Sie ihrem Dokument eine weitere Rechnung hinzufügen. Erst wenn Sie alle Rechnungen abfotografiert haben, klicken Sie auf „Weiter“ und „An HUK-COBURG senden“. Somit wird nur ein Dokument veranlasst - also mehrere Rechnungen in einem Schritt – und Sie erhalten eine Gesamt-Abrechnung und eine Gesamt-Überweisung ihrer Rechnungen, so wie es auch in der Vergangenheit war. 
+###
+
+					Wie werde ich benachrichtigt, wenn meine Rechnung bearbeitet wurden?
+				
+In der App erhalten Sie nach dem Abschicken Ihrer Rechnungen die Information, dass das Dokument gesendet und empfangen wurde. Mit der Information „Dokument empfangen“ sind Ihre Rechnungen in der HUK-COBURG eingegangen und werden bearbeitet. Sobald Ihre Rechnungen bearbeitet wurden, erhalten Sie eine Leistungsabrechnung. Die Leistungsabrechnung wird, wenn Sie sich in „Meine HUK“ für einen elektronischen Versand entscheiden, in Ihrem Postfach unter „Meine HUK“ hinterlegt. Ein postalisches Abrechnungsschreiben an die Heimatadresse erfolgt dann, wenn Sie die elektronische Leistungsabrechnung nicht innerhalb von 14 Tagen aufrufen. Eine Benachrichtigung über die erfolgte Bearbeitung mittels App erfolgt nicht. 
+###
+
+					Muss ich weiterhin den Leistungsscheck benutzen?
+				
+Nein, dieser ist durch die Nutzung der App überflüssig. 
+###
+
+					Kann ich abweichende Kontoverbindungen angeben?
+				
+Nein, bei der Verarbeitung und abschließenden Auszahlung berücksichtigen wir nur die im System hinterlegte Bankverbindung. 
+###
+
+					Die Übertragung ist fehlgeschlagen
+				
+Bei einer zu schlechten oder gar nicht vorhandenen Netzverbindung erscheint in der App ein entsprechender Hinweis. Bei anderen Gründen erscheint ein Hinweis in der Übersicht „Meine Vorgänge“. In beiden Fällen die Verbindung optimieren und die Übertragung erneut anstoßen, ggf. zu einem späteren Zeitpunkt. 
+###
+
+					Was passiert, wenn ich bereits gesendete Belege zusätzlich per Post einreiche?
+				
+Es entsteht ein Mehraufwand in der Bearbeitung. Um dies zu vermeiden, bitten wir Sie, Belege nicht doppelt einzureichen. 
+###
+
+					Muss ich die Originalbelege aufbewahren und falls ja, wie lange?
+				
+Es gibt keine gesetzliche Aufbewahrungsfrist. Da wir durch die Nutzung der App entgegenkommend auf die Zusendung der Originalbelege verzichten, empfehlen wir diese jedoch bis zur abschließenden Bearbeitung aufzubewahren. 
+###
+
+					Kann ich auch Belege für weitere Versicherungen, z. B. Hausrat oder Kfz, einreichen?
+				
+Nein – die App ist nur für Belege der Krankenversicherung vorgesehen. 
+###
+
+					Ist ein Export von Daten aus der App möglich?
+				
+Nein, ein Export von Daten aus der App ist nicht möglich. 
+###
+
+					Welche Daten werden auf meinem Smartphone gespeichert?
+				
+In der App werden folgende Daten verschlüsselt gespeichert: Versicherungsnummer(n) des Versicherungsnehmers Alle fotografierten Belege Die Datenspeicherung auf dem Smartphone erfolgt grundsätzliche auf eigene Gefahr. Die HUK-COBURG übernimmt hierfür keine Haftung. 
+###
+
+					Welche Verantwortung habe ich als Nutzer?
+				
+Sie sind als Nutzer selber für die Datensicherheit verantwortlich, z. B. durch geeignete Maßnahmen wie: Sicherung des Geräts mittels Passwort bzw. Code-Sperre Vermeidung von Missbrauch durch Dritte (keine Weitergabe des Smartphones an Dritte) Auch bei der Datensicherung (z. B. Backups) handeln Sie als Nutzer immer eigenverantwortlich. Nach Ende der Nutzung loggen Sie sich aus Sicherheitsgründen bitte immer über "Menü" und "Abmelden" aus. Erfolgt innerhalb von 30 Minuten keine Bedienung, loggt sich die App selbst aus. 
+###
+
+					Ist die Datenübertragung zur HUK-COBURG sicher?
+				
+Ja, alle Daten werden bereits in der App verschlüsselt und gespeichert. Für die Übertragung wird eine verschlüsselte Verbindung zur HUK-COBURG verwendet. 
+###
+
+					Gerät wird nicht unterstützt (Google Play Store)
+				
+Dies stellt keine Fehlermeldung im eigentlichen Sinne dar. Es bedeutet, dass die systemspezifischen Voraussetzungen des Smartphones nicht ausreichen (z.B. zu schlechte Kameraqualität oder der Arbeitsspeicher ist zu klein). Eine Installation der App ist deswegen nicht möglich. 
+###
+
+					Mobiler Datentransfer untersagt
+				
+Diese Meldung erscheint, wenn die Übermittlung von Daten nur bei einer bestehenden WLAN-Verbindung zugelassen ist. Diese Einstellung sorgt dafür, dass das Datenvolumen des Mobilfunktarifes nicht unnötig belastet wird. Falls trotzdem eine Übertragung erfolgen soll, muss im Menü unter „Einstellungen“ die entsprechende Option "Daten nur per WLAN übertragen" deaktiviert werden. 
+###
+
+					Server nicht erreichbar
+				
+Gründe hierfür können sein: Schlechte oder zu langsame Datenverbindung (2G, GPRS, E, Edge, etc.) Ihr High-Speed-Datenvolumen des Vertrages ist bereits aufgebraucht und es besteht nur noch eine sehr langsame Netzverbindung. Im WLAN bei zu schlechtem Empfang bzw. zu geringer Bandbreite. 
+###
+

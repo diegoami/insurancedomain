@@ -644,3 +644,11 @@ sites:
       - https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_rentenversicherung/
       - https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_unfallversicherung/
       - https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faq_wohngebaeudeversicherung/
+  - host: huk.de
+    block: div[class*=aufklapper__item]
+    title: h3
+    texts:
+      - p
+      - li
+    urls:
+      - https://www.huk.de/service/apps/faq-pkv-rechnungs-app.html
