@@ -614,3 +614,33 @@ sites:
       - https://www.preisvergleich.de/versicherungen/reiseruecktrittsversicherungen-faq/
       - https://www.preisvergleich.de/versicherungen/rentenversicherungen-faq/
       - https://www.preisvergleich.de/versicherungen/private-pflegeversicherungen-faq/
+  - host: zurich.at
+    block: div[class=section]
+    title: h3
+    texts:
+      - p
+      - li
+    urls:
+      - https://www.zurich.at/versicherung/haus-wohnung/eigenheimversicherung/faq
+      - https://www.zurich.at/versicherung/haus-wohnung/haushaltsversicherung/faq
+      - https://www.zurich.at/versicherung/recht-haftpflicht/rechtsschutzversicherung/faq
+      - https://www.zurich.at/versicherung/kfz-versicherung/motorrad/faq
+      - https://www.zurich.at/versicherung/unfall-absicherung/unfall/faq
+      - https://www.zurich.at/versicherung/kfz-versicherung/auto/faq
+  - host: oeffentlicheoldenburg.de
+    block: dl[class=accordion]
+    title: a
+    texts:
+      - p
+      - li
+    urls:
+      - https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faq_bauleistungsversicherung/
+      - https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_haftpflichtversicherung/
+      - https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faq_hausratversicherung/
+      - https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_kfzversicherung/
+      - https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faq_krankenversicherung/
+      - https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_leben/
+      - https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_rechtsschutz/
+      - https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_rentenversicherung/
+      - https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_unfallversicherung/
+      - https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faq_wohngebaeudeversicherung/

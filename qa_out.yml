@@ -3577,6 +3577,76 @@ urls:
     - p
     - li
     title: h1
+  https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faq_bauleistungsversicherung/:
+    block: dl[class=accordion]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/oeffentlicheoldenburg.de/1.txt
+    texts:
+    - p
+    - li
+    title: a
+  https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faq_hausratversicherung/:
+    block: dl[class=accordion]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/oeffentlicheoldenburg.de/3.txt
+    texts:
+    - p
+    - li
+    title: a
+  https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faq_krankenversicherung/:
+    block: dl[class=accordion]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/oeffentlicheoldenburg.de/5.txt
+    texts:
+    - p
+    - li
+    title: a
+  https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faq_wohngebaeudeversicherung/:
+    block: dl[class=accordion]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/oeffentlicheoldenburg.de/10.txt
+    texts:
+    - p
+    - li
+    title: a
+  https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_haftpflichtversicherung/:
+    block: dl[class=accordion]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/oeffentlicheoldenburg.de/2.txt
+    texts:
+    - p
+    - li
+    title: a
+  https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_kfzversicherung/:
+    block: dl[class=accordion]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/oeffentlicheoldenburg.de/4.txt
+    texts:
+    - p
+    - li
+    title: a
+  https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_leben/:
+    block: dl[class=accordion]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/oeffentlicheoldenburg.de/6.txt
+    texts:
+    - p
+    - li
+    title: a
+  https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_rechtsschutz/:
+    block: dl[class=accordion]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/oeffentlicheoldenburg.de/7.txt
+    texts:
+    - p
+    - li
+    title: a
+  https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_rentenversicherung/:
+    block: dl[class=accordion]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/oeffentlicheoldenburg.de/8.txt
+    texts:
+    - p
+    - li
+    title: a
+  https://www.oeffentlicheoldenburg.de/content/privat/versicherungen/faq-portal/detailpage/faqs_unfallversicherung/:
+    block: dl[class=accordion]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/oeffentlicheoldenburg.de/9.txt
+    texts:
+    - p
+    - li
+    title: a
   https://www.preisvergleich.de/versicherungen/berufsunfaehigkeitsversicherungen-faq/:
     block: div[class*=boxParagraph]
     file_name: /home/diegoami/projects/insurancedomain/qa_documents/preisvergleich.de/1.txt
@@ -3808,4 +3878,46 @@ urls:
     - p
     - li
     title: h2
+  https://www.zurich.at/versicherung/haus-wohnung/eigenheimversicherung/faq:
+    block: div[class=section]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/zurich.at/1.txt
+    texts:
+    - p
+    - li
+    title: h3
+  https://www.zurich.at/versicherung/haus-wohnung/haushaltsversicherung/faq:
+    block: div[class=section]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/zurich.at/2.txt
+    texts:
+    - p
+    - li
+    title: h3
+  https://www.zurich.at/versicherung/kfz-versicherung/auto/faq:
+    block: div[class=section]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/zurich.at/6.txt
+    texts:
+    - p
+    - li
+    title: h3
+  https://www.zurich.at/versicherung/kfz-versicherung/motorrad/faq:
+    block: div[class=section]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/zurich.at/4.txt
+    texts:
+    - p
+    - li
+    title: h3
+  https://www.zurich.at/versicherung/recht-haftpflicht/rechtsschutzversicherung/faq:
+    block: div[class=section]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/zurich.at/3.txt
+    texts:
+    - p
+    - li
+    title: h3
+  https://www.zurich.at/versicherung/unfall-absicherung/unfall/faq:
+    block: div[class=section]
+    file_name: /home/diegoami/projects/insurancedomain/qa_documents/zurich.at/5.txt
+    texts:
+    - p
+    - li
+    title: h3
 
